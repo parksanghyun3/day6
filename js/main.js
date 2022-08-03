@@ -144,6 +144,8 @@ $(document).ready(function(){
     },
   });
 
+$(".album-list li").on("hover", function(){
+  
+})
 
-
-});
+});s

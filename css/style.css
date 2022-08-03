@@ -87,3 +87,13 @@ ul {margin: 0; padding: 0; list-style: none;}
 /* section6 */
 #section6 {margin-top: 40vh;}
 #section6 .title {font-family: 'Akshar', sans-serif; font-size: 200px; font-weight: 700; font-style: italic; letter-spacing: -.05em; text-transform: uppercase; color: #fff;}
+
+#section6 .album-list {margin: 0 auto; max-width: 1440px; width: 1440px;}
+#section6 .album-list li {}
+/* #section6 .album-list li:first-child a {border-top: ;} */
+#section6 .album-list li a {padding: 20px 0; display: flex; justify-content: space-between; color: #fff; border-bottom: 1px solid rgba(255, 255, 255, .55);}
+#section6 .album-list li a .album {}
+#section6 .album-list li a .title-song {}
+#section6 .album-list li a .album-date {font-size: 12px; font-weight: 400;}
+#section6 .album-thumnail {}
+#section6 .album-thumnail li {display: none;}
